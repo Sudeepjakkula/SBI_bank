@@ -1,0 +1,13 @@
+	1. sudo su
+	2.  yum update -y
+	3.  yum install git -y
+	4.  git config -- global user.name " sudeep"
+	5.  git config  --global user.email "sudeep@gmail.com"
+	6.  git config --list 
+	7.  mkdir mumabi 
+	8.  cd mumbai
+	9.  git init
+	10.  cat >filea
+	11.  git add .
+	12.  git commit -m " first done by devA"
+	13.  git status
