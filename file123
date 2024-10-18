@@ -11,3 +11,30 @@
 	11.  git add .
 	12.  git commit -m " first done by devA"
 	13.  git status
+  
+       	Then push to the github repository
+	For the followings steps:
+	1. Go the repository
+	2. Create repository
+	3. Give Repository name EX: " SBI_BANK" 
+	4. Then click repository
+	5. Copy the repository link
+	6.  add repository as remote 
+	7.  git remote add origin "link"
+	8.  git push -u origin master
+Here give the credentials 
+Username: 
+Password
+To generate the password steps
+	1. Settings
+	2. Developer settings
+	3. Personal access token 
+	4. Classic token 
+	5. Generate newone ---> classic
+	6. Copy the password 
+
+PULL:
+
+To pull the code from the github repository these are the following steps 
+	1.  git pull repository link
+
